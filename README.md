@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NidiaL
-- 👀 I’m interested in Data Science, Data Analytics and Quality Control
-- 🌱 I’m currently learning Python and all around Data Science basics
+- 👀 I’m interested in Data Science and Machine Learning, Data Analytics and Quality Control
+- 🌱 I’m continuously learning Python and all around Data Manipulation and Visualization
 - 💞️ I’m looking to collaborate on my learning and will be sharing all my discoveries with the community 
 - 📫 How to reach me via email
 
